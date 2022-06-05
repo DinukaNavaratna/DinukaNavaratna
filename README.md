@@ -43,7 +43,7 @@
 <img align="right" width=300px alt="DreamBigger" src="https://media.giphy.com/media/Zn7ML6FBY4btzVrhXo/giphy.gif" />
 
 <br>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+<!--<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">-->
 <br>
 
 ### &nbsp;***Talking About Personal Stuffs...***
