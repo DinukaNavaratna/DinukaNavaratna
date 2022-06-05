@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi, I'm Dinuka Navaratna <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Dinuka Navaratna <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15%"></h1>
 <h3 align="center">SOFTWARE ENGINEER | STARTUP ENTHUSIAST | MENTOR</h3>
 <p align="center">
   <a href="https://www.dinuka.info">
@@ -27,7 +27,9 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> "<b>My Life; My Dreams; My Future</b>" <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif">
+  <br>
+  "<b>My Life; My Dreams; My Future</b>"
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=DinukaNavaratna&label=Profile%20views&color=0e75b6&style=flat" alt="PageViewCount"/>
   <div align="center">
@@ -41,16 +43,17 @@
 <img align="right" width=300px alt="DreamBigger" src="https://media.giphy.com/media/Zn7ML6FBY4btzVrhXo/giphy.gif" />
 
 <br>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+<br>
 
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking About Personal Stuffs...***
+### &nbsp;***Talking About Personal Stuffs...***
 
 
-- 🔭 I’m currently working on <b>an Innovative Project at <a href="https://binarytechnologies.io/">Binary Technologies International</a></b>
-- 🌱 I’m currently learning <b>iOS Development</b>
+- 🔭 I’m currently working on many projects, mainly using <b>Python</b>, <b>Kotlin</b>, <b>PHP</b>, & etc.
+- 🌱 I’m currently learning <b>Project Management</b>
 - 👯 I’m looking to collaborate on <b>Innovative Projects</b>
 - 🤔 I’m looking for help with <b>Investments</b>
 - 💬 Ask me about <b>Software Development</b>
-- 📫 How to reach me: <b><a href="https://www.dinuka.info">www.dinuka.info</a></b>
 - 😄 Pronouns: <b>He/Him/Mr</b>
 - ⚡ Fun fact: <b>Seriously?</b>
 
@@ -59,14 +62,15 @@
 ### <img src="https://i.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.webp" width="30px">&nbsp;***Here're the languages that I'm Currently Working on...***
 
 ![](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Android-32DE84?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/iOS-78C5EF?style=for-the-badge&logo=ios&logoColor=white)
-![](https://img.shields.io/badge/Flutter-147EFB?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/iOS-78C5EF?style=for-the-badge&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/Flutter-147EFB?style=for-the-badge&logo=flutter&logoColor=white)
 
 <br>
 
@@ -85,7 +89,7 @@
 </div>
 <br><br>
 
-**By:** <a href="https://www.dinuka.info">Dinuka Navaratna</a>
+**By:** <a href="#">Dinuka Navaratna</a>
 <br>
 
-**Last Edited on:** 22/11/2021
+**Last Edited on:** 05/06/2022
