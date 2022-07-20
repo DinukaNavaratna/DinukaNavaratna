@@ -8,7 +8,7 @@
   <a href="https://www.dinuka.info">
     <img src="https://avatars.githubusercontent.com/u/26020039?v=4" title="Official Website" alt="Dinuka Navaratna's Official Website" height="30" width="30" style="border-radius:50px">
   </a>
-  <a href="mailto: hello@dinuka.info">
+  <a href="mailto: hello@dinuka.live">
     <img src="https://www.designbust.com/download/1024/png/email_icon_transparent512.png" title="Email Address" alt="Dinuka Navaratna's Email Address" height="30" width="30">
   </a>
   <a href="https://au.linkedin.com/in/dinukanavaratna/">
@@ -89,7 +89,7 @@
 </div>
 <br><br>
 
-**By:** <a href="#">Dinuka Navaratna</a>
+**By:** <a href="https://dinuka.live/">Dinuka Navaratna</a>
 <br>
 
-**Last Edited on:** 05/06/2022
+**Last Edited on:** 20/07/2022
