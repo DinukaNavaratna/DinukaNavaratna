@@ -5,10 +5,10 @@
 <h1 align="center">Hi, I'm Dinuka Navaratna <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15%"></h1>
 <h3 align="center">SOFTWARE ENGINEER | STARTUP ENTHUSIAST | MENTOR</h3>
 <p align="center">
-  <a href="https://www.dinuka.info">
+  <a href="https://dinuka.site">
     <img src="https://avatars.githubusercontent.com/u/26020039?v=4" title="Official Website" alt="Dinuka Navaratna's Official Website" height="30" width="30" style="border-radius:50px">
   </a>
-  <a href="mailto: hello@dinuka.live">
+  <a href="mailto: hello@dinuka.site">
     <img src="https://www.designbust.com/download/1024/png/email_icon_transparent512.png" title="Email Address" alt="Dinuka Navaratna's Email Address" height="30" width="30">
   </a>
   <a href="https://au.linkedin.com/in/dinukanavaratna/">
@@ -89,7 +89,7 @@
 </div>
 <br><br>
 
-**By:** <a href="https://dinuka.live/">Dinuka Navaratna</a>
+**By:** <a href="https://dinuka.site/">Dinuka Navaratna</a>
 <br>
 
 **Last Edited on:** 20/07/2022
