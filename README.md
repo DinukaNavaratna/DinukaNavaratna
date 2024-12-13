@@ -2,15 +2,18 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi, I'm Dinuka Navaratna <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15%"></h1>
+<h1 align="center">Hi, I'm Dinuka Navaratna <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"></h1>
 <h3 align="center">SOFTWARE ENGINEER | STARTUP ENTHUSIAST | MENTOR</h3>
 <p align="center">
-  <a href="https://dinuka.site">
-    <img src="https://avatars.githubusercontent.com/u/26020039?v=4" title="Official Website" alt="Dinuka Navaratna's Official Website" height="30" width="30" style="border-radius:50px">
+  <br><b>Website</b><br>
+  <a href="https://dinuka.site?ref=github.com">
+    https://dinuka.site
   </a>
+  <br><br><b>Email</b><br>
   <a href="mailto: hello@dinuka.site">
-    <img src="https://www.designbust.com/download/1024/png/email_icon_transparent512.png" title="Email Address" alt="Dinuka Navaratna's Email Address" height="30" width="30">
+    hello@dinuka.site
   </a>
+  <br><br><b>Socials</b><br><br>
   <a href="https://au.linkedin.com/in/dinukanavaratna/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Dinuka Navaratna's LinkedIn Profile" alt="Dinuka Navaratna's LinkedIn Profile" height="30" width="30">
   </a>
@@ -23,6 +26,7 @@
   <a href="https://devpost.com/dinuka-navaratna">
     <img src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" title="Dinuka Navaratna's Devpost Profile" alt="Dinuka Navaratna's Devpost Profile" height="30" width="30">
   </a>
+  <br><br><br>
 </p>
 </p>
 
@@ -49,10 +53,10 @@
 ### &nbsp;***Talking About Personal Stuffs...***
 
 
-- 🔭 I’m currently working on many projects, mainly using <b>Python</b>, <b>Kotlin</b>, <b>PHP</b>, & etc.
+- 🔭 I’m currently working on many projects, mainly using <b>Python</b>, <b>React</b>, <b>PHP</b>, & etc.
 - 🌱 I’m currently learning <b>Project Management</b>
 - 👯 I’m looking to collaborate on <b>Innovative Projects</b>
-- 🤔 I’m looking for help with <b>Investments</b>
+- 🤔 I’m looking for help with <b>Startup Growth</b>
 - 💬 Ask me about <b>Software Development</b>
 - 😄 Pronouns: <b>He/Him/Mr</b>
 - ⚡ Fun fact: <b>Seriously?</b>
@@ -68,7 +72,11 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=python&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Java-ED1D25?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/AWS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/React-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/SQL-787CB5?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/iOS-78C5EF?style=for-the-badge&logo=ios&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-147EFB?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -92,4 +100,4 @@
 **By:** <a href="https://dinuka.site/">Dinuka Navaratna</a>
 <br>
 
-**Last Edited on:** 20/07/2022
+**Last Edited on:** 13/12/2024
